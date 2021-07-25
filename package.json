@@ -29,6 +29,6 @@
     "handlebars": "^4.7.7",
     "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
-    "notiflix": "^3.0.1"
+    "notiflix": "^2.7.0"
   }
 }
